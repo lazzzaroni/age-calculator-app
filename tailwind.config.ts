@@ -4,6 +4,9 @@ import { fontFamily } from "tailwindcss/defaultTheme";
 export default {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    screens: {
+      lg: "872px",
+    },
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],

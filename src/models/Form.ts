@@ -6,7 +6,6 @@ const YEAR_ERROR = "Must be a valid year";
 const PAST_YEAR_ERROR = "Must be in the past";
 const REQUIRED_ERROR = "This field is required";
 const DIGITS_ERROR = "Only digits are allowed";
-// const INVALID_DATE_ERROR = "Must be a valid date";
 
 export const FormSchema = z.object({
   day: z

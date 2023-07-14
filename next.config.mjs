@@ -6,7 +6,7 @@ await import("./src/env.mjs");
 
 /** @type {import("next").NextConfig} */
 const config = {
-  // basePath: "/age-calculator-app",
+  basePath: "/age-calculator-app",
   reactStrictMode: true,
 
   /**

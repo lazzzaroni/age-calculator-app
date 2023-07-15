@@ -57,8 +57,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/lazzzaroni//age-calculator-app)
-- Live Site URL: [GitHub Pages](https://lazzzaroni.github.io//age-calculator-app)
+- Solution URL: [GitHub Repo](https://github.com/lazzzaroni/age-calculator-app)
+- Live Site URL: [GitHub Pages](https://lazzzaroni.github.io/age-calculator-app)
 
 ## My process
 
